@@ -1,7 +1,7 @@
 name = "Timestream"
 uuid = "ce82053c-fa70-4f37-af49-87ab44846bd9"
 authors = ["klangner <klangner@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 AWS = "fbe9abb3-538b-5e4e-ba9e-bc94f4f92ebc"
