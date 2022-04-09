@@ -8,6 +8,7 @@ AWS = "fbe9abb3-538b-5e4e-ba9e-bc94f4f92ebc"
 
 [compat]
 julia = "1.6"
+AWS = "1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
