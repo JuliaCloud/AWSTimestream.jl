@@ -1,14 +1,14 @@
 ```@meta
-CurrentModule = Timestream
+CurrentModule = AWSTimestream
 ```
 
-# Timestream
+# AWSTimestream
 
-Documentation for [Timestream](https://github.com/klangner/Timestream.jl).
+Documentation for [AWSTimestream](https://github.com/JuliaCloud/AWSTimestream.jl).
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [Timestream]
+Modules = [AWSTimestream]
 ```

@@ -1,4 +1,4 @@
-module Timestream
+module AWSTimestream
 
 using AWS: @service, JSONService
 using AWS.UUIDs

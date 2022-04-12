@@ -1,6 +1,6 @@
-using Timestream
+using AWSTimestream
 using Test
 
-@testset "Timestream.jl" begin
+@testset "AWSTimestream.jl" begin
     # Write your tests here.
 end
