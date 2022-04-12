@@ -1,6 +1,6 @@
 name = "AWSTimestream"
 uuid = "085ec741-9144-410b-b7d8-4db6e3360da0"
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 AWS = "fbe9abb3-538b-5e4e-ba9e-bc94f4f92ebc"
