@@ -1,6 +1,5 @@
-name = "Timestream"
-uuid = "ce82053c-fa70-4f37-af49-87ab44846bd9"
-authors = ["klangner <klangner@gmail.com> and contributors"]
+name = "AWSTimestream"
+uuid = "085ec741-9144-410b-b7d8-4db6e3360da0"
 version = "0.1.0"
 
 [deps]
